@@ -1,5 +1,5 @@
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Bankai {
      public static void main(String args[]){
@@ -21,3 +21,4 @@ public class Bankai {
              System.out.println("False");    
       }
 }
+
